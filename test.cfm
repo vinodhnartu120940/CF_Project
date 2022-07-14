@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/dark.css">
 </head>
 <body>
-	<h1>Registration Form</h1>
+	<h1>Registration Form vinodh</h1>
 	<form action="actionfile.cfm" method="POST">
 		<label>FirstName : </label>
 		<input type="text"  name="fname">
